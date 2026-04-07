@@ -32,7 +32,7 @@ Thurs 14.00–16.00, Appointments/Co-working @ Lab
 
 Sprechstunden: Tues 14.00–16.00, Co-working @ Lab
 
-## Why 
+## Why & How
 
 
 

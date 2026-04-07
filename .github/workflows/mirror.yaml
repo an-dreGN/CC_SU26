@@ -1,20 +1,20 @@
 on: 
-  workflow_dispatch:
-  push:
-    branches: ['**']
-    tags: ['**']
+#   workflow_dispatch:
+#   push:
+#     branches: ['**']
+#     tags: ['**']
 
-jobs:
-  mirror:
-      runs-on: ubuntu-latest
-      timeout-minutes: 5
+# jobs:
+#   mirror:
+#       runs-on: ubuntu-latest
+#       timeout-minutes: 5
       steps:
         - uses: actions/checkout@v3
           with:
             fetch-depth: 0
         - uses: yesolutions/mirror-action@master
           with:
-            REMOTE: 'https://github.com/codecollectiveKHM/CC_SU26.git'
+            REMOTE: 'https://codeberg.org/codecollective/CC_SU26.git'
             GIT_USERNAME: sarahciston
             GIT_PASSWORD: ${{ secrets.GIT_PASSWORD }}
 
