@@ -58,7 +58,9 @@ Sprechstunden: Tues 14.00–16.00, Co-working @ Lab
 
 ## Why
 
-Rather than a top-down lecture format or traditional coding skills course, this seminar is organized from the bottom up. It aims for students to direct their own course of learning with the instructor as coach or guide. The purpose of this approach is to provide meta-skills like independent investigation, research, and skill-building, as well as a supportive environment to explore and take creative risks. 
+Rather than a top-down lecture format or traditional coding skills course, this seminar is organized from the bottom up. It aims for students to direct their own course of learning with the instructor as coach or guide. It also hopes to meet you where you are and to grow with you, no matter your facility with (or interest in) code when you arrive. 
+
+The purpose of this approach is to provide meta-skills like independent investigation, research intuition, and broader skill-building, as well as a supportive environment for all types of learners to explore and take creative risks. 
 
 ### Goals & Outcomes
 
@@ -78,14 +80,14 @@ None! No particular experience is required. Any kind of field or background is h
 
 ### Seminar Format
 
-1. **Opening Check-ins**: Two minutes per person. What are you working on, wondering or worrying about? What have you come across of interest during your week?
-2. **Read of the Week Discussion**: Optional short session engaging with the selected reading. 
-3. **Co-working, Showcases, Workshops, or Troubleshooting**: The main portion of seminar is self-directed, based on what came up during opening check-ins and reading discussion.
+1. **Opening Check-ins**: Three minutes per person. What are you working on, wondering or worrying about? What have you come across of interest during your week?
+2. **Discussion**: Optional short session engaging with the Text of the Week or other shared material. 
+3. **Co-working, Showcases, Workshops, or Troubleshooting**: The main portion of seminar is self-directed, based on what came up during opening check-ins and materials discussion.
 4. **Closing Remarks**: Wrap up and plans for next meeting.
 
-### Read of the Week
+### Text of the Week
 
-A short text or piece of media to spark conversation about current topics of interest furthering our research, the Read of the Week is selected together for the next week and collective discussion will be lead by a volunteer. See [potential readings](readings.md).
+A short text or piece of media to spark conversation about current topics of interest furthering our research, the Text of the Week is selected together for the next week and collective discussion will be lead by a volunteer. "Text" is used loosely. See [potential texts](readings.md).
 
 ### Potential Topics & Tinkering
 
@@ -102,20 +104,20 @@ A short text or piece of media to spark conversation about current topics of int
 
 ### [Lab Knowledge Hub](https://codecollectiveKHM.github.io/knowledgehub) 
 
-We can build a group of resources and shared readings together.
+Let's gather a group of resources and shared texts together.
 
 Wishlist:
 - Lab Inventories & Instructions  
-- Collaborative Bibliography, Mediography, Zotero
-- Residencies, PhDs, Applications
+- Collaborative Bibliography, Mediography
+- Residencies, PhDs, Applications Resources
 <!-- - Hybrid Seminar Video Link -->
 - What else would you like to see included?
 
-Format options:
+Potential format options:
 - Logseq
-- Matrix server
 - Quarto website (markdown)
-- Repo (markdown)
+- Matrix server
+- Github repo or wiki (markdown) or discussion forum
 
 <!-- Other hubs: -->
 <!-- - [Code Collective Resource Hub](https://codecollective.org/resource-hub) -->
@@ -131,20 +133,23 @@ Developed in past Code Collectives, these guidelines are a living document, open
 4. process over outcome<sup>4</sup>
 5. we all have skills to teach each other<sup>2</sup>
 6. we meet people where they are. we try not to assume knowledge or imply skill hierarchies. (no code snobs.)<sup>3</sup> 
-7. we don't assume any identities based on appearance. our approach is characterized by intersectionality.<sup>10</sup>
-8. we strive to understand different points of view and avoid generalizations.<sup>10</sup>
-9. no one's basic human rights are up for debate.
-10. assume best intent and attend to impact<sup>4</sup>
-11. only yes means yes<sup>10</sup>
-12. in dialogue, we actively listen and speak from the heart, are spontaneous and brief,<sup>6</sup> allowing others room to express themselves<sup>10</sup>
+7. we don't assume any identities based on appearance. our approach is characterized by intersectionality.<sup>11</sup>
+8. kaleidoscopic thinking: we allow for multiple perspectives, embrace intersectional and interdisciplinary viewpoints, and avoid generalizations. we resist generic "the view from nowhere"<sup>12</sup>
+9. no one's basic human rights are up for debate
+10. we assume best intent and attend to impact<sup>4</sup>
+11. we don't assume consent and know that only yes means yes<sup>11</sup>
+12. in dialogue, we actively listen and speak from the heart, are spontaneous and brief,<sup>6</sup> allowing others room to express themselves<sup>11</sup>
 13. we accept responsibility for our actions and work towards repair<sup>3</sup>
-14. we center care,<sup>5</sup> understanding that self care and community care are connected.<sup>4</sup>
+14. we center care,<sup>5</sup> knowing that self care and community care are connected<sup>4</sup>
 15. we must communicate, cooperate, and care for each other to build the kind of community we want
 
-Thank you to the individuals and organizations who from whom we adopted these principles and protocols: adrienne maree brown,<sup>4</sup> Allied Media Conference,<sup>5</sup> Berlin Code of Conduct,<sup>8</sup> Center for Council,<sup>6</sup> Creative Code Collective (LA),<sup>2</sup> *Feminist Killjoy Handbook*,<sup>10</sup> Ground Zero KHM,<sup>10</sup> P5.js,<sup>3</sup> Superrr,<sup>7</sup> and W3C.<sup>9</sup>
+Thank you to the individuals and organizations who from whom we adopted these principles and protocols: adrienne maree brown,<sup>4</sup> Allied Media Conference,<sup>5</sup> Berlin Code of Conduct,<sup>8</sup> Center for Council,<sup>6</sup> Creative Code Collective (LA),<sup>2</sup> *Feminist Killjoy Handbook*,<sup>10</sup> Ground Zero KHM,<sup>11</sup> Donna Haraway,<sup>12</sup> P5.js,<sup>3</sup> Superrr,<sup>7</sup> and W3C.<sup>9</sup>
 
 ### Access support 
 To accommodate your body during seminars or co-working, please feel free to stim, stretch, knit, doodle, move around, change seats, take a break or do what feels right to you. A calm, quieter area is being designated for taking time to reset. Please feel free to use that space, while respecting the space, and others in the space. It is important that you can learn in ways that support you — and all of us together — by making a shared space that is comfortable to express those needs, including any issues with the format, materials, requirements, lab areas, etc. Please communicate with Sarah how they can help support any access concerns, as it is their goal to create a learning experience that is as accessible as possible.
+
+### Snack policy
+We are extremely pro snacks. Please bring and enjoy snacks!
 
 ### Computer code is text
 Programming is often collaborative, and computer code is often shared and reused. To an extent, this is appropriate in a coding course unless otherwise directed. When you use code not written by yourself alone, you should always attribute it — no matter if the code comes from AI tools, a tutorial, a friend, or any other source. Please follow these protocols from MIT, which call for placing a comment in one's code with a URL to the original source, a note if it was adapted, and the date of retrieval: https://integrity.mit.edu/handbook/writing-code . When using AI tools in particular, please describe which models were employed, as well as what prompts and further processes led to your results.
