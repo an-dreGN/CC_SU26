@@ -9,5 +9,5 @@ Or here: https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo
 |Aiden Vetter|@13c13rq||||
 ||||||
 ||||||
-|Sage| wongcw0104|
+|Sage|@wongcw0104|||Tech knowledge gap, interactive sound and visual project||
 ||||||
