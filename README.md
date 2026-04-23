@@ -49,7 +49,9 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 Sprechstunden: https://tinyurl.com/chatwsarah (Make a time to chat with Sarah)
 
 Tues 11.00–13.00, Co-working @ Lab
+
 Tues 14.00–15.50, Appointments/Co-working @ Lab <!--1:1 Appointments @ Heumarkt 14, R3.19-->
+
 Thurs 14.00–16.00, Appointments/Co-working @ Lab  
 
 **Aiden Vetter** (he/they) Wissenschaftliche Hilfskraft [aiden dot vetter at khm dot de](aiden.vetter@khm.de)
