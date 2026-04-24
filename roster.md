@@ -7,7 +7,7 @@ Or here: https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo
 |Aiden Vetter|[@13c13rq](https://github.com/13c13rq)|[Leclerqs-abode.com](https://leclerqs-abode.com)|libre & FOSS software, Perl script, Bash script, experimental & creative writing / coding, pc hardware & repair, Linux sysadmin|Rust, OpenGL, procedural AR simulations|
 |jeo kang|@jeokang|https://www.instagram.com/jeo_kang/|||
 ||||||
-||||||
+|Merre|[@hochstabil](https://github.com/hochstabil)|[Soundcloud Page](https://soundcloud.com/user-405110167)|||
 ||||||
 ||||||
 ||||||
