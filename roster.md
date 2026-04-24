@@ -7,6 +7,7 @@ Or here: https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo
 |---|---|---|---|---|
 |Sarah Ciston|[@sarahciston](https://github.com/sarahciston)|[sarahciston.com](https://sarahciston.com)|critical AI, old-school vibe coding, military AI use, knitting, zine-making, queer feminist poetics|edge AI, small language models, RFID for installations|
 |Aiden Vetter|@13c13rq||||
+|Kylie Seunghyun Oh|[@damtired](https://github.com/damtired)|[instagram: @kylieoh.sonic](https://www.instagram.com/kylieoh.sonic/)|puredata, Touchdesigner, Ableton Live, Logic Pro, and composition and playing instruments...|live sound performances and experimental music using bodily sounds, noise music and shoegaze, MAX/MSP|
 |jeo kang|@jeokang|https://www.instagram.com/jeo_kang/|||
 |You He|[@You He](https://github.com/heyou88)|website under construction|unreal game engine, table tennis, cosmotechnics|obsidian+claude, claude code|
 |an*dre neely|[an-dreGN](https://github.com/an-dreGN)|[@itsandreneely](https://www.instagram.com/itsandreneely)|performance, text, choreography, somatics, queer theory & artistic research|coding n00b, wanna use Linux. Big-Tech exodus, tech misappropriations, text-based MUDs, interactive systems, live-coding, FOSS & Libre Software|
